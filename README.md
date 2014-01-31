@@ -1,6 +1,6 @@
-# MoveTabs #
+# Move Tabs Anywhere #
 
-A [Sublime Text 3](http://www.sublimetext.com/3) plugin that allows you to move tabs with your keyboard.
+A [Sublime Text 3](http://www.sublimetext.com/3) plugin that allows you to move tabs anywhere with your keyboard.
 
 This plugin was created because of the weird behavior in ST3 when trying to move the tabs manually.  
 Also, keyboard shortcuts are awesome!
