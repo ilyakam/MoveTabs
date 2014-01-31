@@ -42,6 +42,12 @@ To use, rename `Example ([OS]).sublime-keymap` to `Default ([OS]).sublime-keymap
 
 ## Changelog ##
 
+#### v1.0.1 ####
+
+* No longer overriding default key bindings.
+* Changed name to reflect how it stands out from other similar plugins.
+* Refactored move logic.
+
 #### v1.0.0 ####
 
 * Initial release.
