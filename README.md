@@ -9,11 +9,36 @@ Also, keyboard shortcuts are awesome!
 
 ## Usage ##
 
+##### OSX ######
+
+| Key Binding | Action |
+| --- | --- |
+| ⌘+K, ⌘+comma  | move this tab to the left |
+| ⌘+K, ⌘+period | move this tab to the right |
+
+##### Windows & Linux ######
+
+| Key Binding | Action |
+| --- | --- |
+| Ctrl+K, Ctrl+comma  | move this tab to the left |
+| Ctrl+K, Ctrl+period | move this tab to the right |
+
+#### Recommended Key Bindings ####
+
+**Note:** These key binding will override the default code folding behavior.  
+To use, rename `Example ([OS]).sublime-keymap` to `Default ([OS]).sublime-keymap`
+
+##### OSX ######
+
 | Key Binding | Action |
 | --- | --- |
 | ⌘+K, ⌘+[digit] | to move this tab anywhere in the group |
-| ⌘+K, ⌘+comma  | to move this tab to the left |
-| ⌘+K, ⌘+period | to move this tab to the right |
+
+##### Windows & Linux ######
+
+| Key Binding | Action |
+| --- | --- |
+| Ctrl+K, Ctrl+[digit] | to move this tab anywhere in the group |
 
 ## Changelog ##
 
