@@ -2,15 +2,18 @@
 
 A [Sublime Text 3](http://www.sublimetext.com/3) plugin that allows you to move tabs with your keyboard.
 
-This plugin was created because of the weird behavior in ST3 when trying to move the tabs manually. Also, keyboard shortcuts are awesome!
+This plugin was created because of the weird behavior in ST3 when trying to move the tabs manually.  
+Also, keyboard shortcuts are awesome!
 
-TODO: Show image of quirk
+![Animated GIF of quirk](http://i.imgur.com/ZnHAvx4.gif "This is annoying")
 
 ## Usage ##
 
-* **⌘+K, ⌘+[digit]** to move this tab anywhere in the group
-* **⌘+K, ⌘+,** to move this tab to the left
-* **⌘+K, ⌘+.** to move this tab to the right
+| Key Binding | Action |
+| --- | --- |
+| ⌘+K, ⌘+[digit] | to move this tab anywhere in the group |
+| ⌘+K, ⌘+comma  | to move this tab to the left |
+| ⌘+K, ⌘+period | to move this tab to the right |
 
 ## Changelog ##
 
