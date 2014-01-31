@@ -7,6 +7,8 @@ Also, keyboard shortcuts are awesome!
 
 ![Animated GIF of quirk](http://i.imgur.com/ZnHAvx4.gif "This is annoying")
 
+---
+
 ## Usage ##
 
 ##### OSX ######
@@ -32,13 +34,13 @@ To use, rename `Example ([OS]).sublime-keymap` to `Default ([OS]).sublime-keymap
 
 | Key Binding | Action |
 | --- | --- |
-| ⌘+K, ⌘+[digit] | to move this tab anywhere in the group |
+| ⌘+K, ⌘+[digit] | move this tab anywhere in the group |
 
 ##### Windows & Linux ######
 
 | Key Binding | Action |
 | --- | --- |
-| Ctrl+K, Ctrl+[digit] | to move this tab anywhere in the group |
+| Ctrl+K, Ctrl+[digit] | move this tab anywhere in the group |
 
 ## Changelog ##
 
